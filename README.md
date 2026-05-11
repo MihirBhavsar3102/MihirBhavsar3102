@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbhavsar3102/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/IaMBhavsar)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fbwrmisqch4ezueviy7osyu3ou)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirbhavsar2001@gmail.com)
 
 <br/>
@@ -134,13 +133,3 @@ contact:    mihirbhavsar2001@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirBhavsar3102&layout=compact&theme=transparent&hide_border=true&title_color=378add&text_color=888888&langs_count=6" height="165"/>
 
 </div>
-
----
-
-<div align="center">
-
-*"Infrastructure is not just servers — it's the foundation of everything."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,30:0d1b2a,70:0a1520,100:071018&height=120&section=footer" width="100%"/>
