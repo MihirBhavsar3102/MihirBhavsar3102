@@ -1,103 +1,149 @@
-<div id="header" align="center">
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mihirbhavsar3102/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MihirBhavsar3102" height="30" width="40" />
-    </a>
-    <a href="https://open.spotify.com/user/31fbwrmisqch4ezueviy7osyu3ou" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="MihirBhavsar3102" height="30" width="40" />
-    </a>
-    <a href="https://x.com/IaMBhavsar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MihirBhavsar3102" height="30" width="40" />
-    </a>
-  </div> <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=MihirBhavsar3102&style=flat-square&color=blue" alt=""/>
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mihir%20Bhavsar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Operations%20Engineer%20%E2%98%81%EF%B8%8F%20%7C%20DevOps%20%7C%20AWS%20%7C%20Azure%20%7C%20GCP&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
 
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    , I'm Mihir Bhavsar
-  </h1>
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/mihirbhavsar3102/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/IaMBhavsar" target="blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/31fbwrmisqch4ezueviy7osyu3ou" target="blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<a href="mailto:mihirbhavsar2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MihirBhavsar3102&style=flat-square&color=2c5364&label=Profile+Views" alt=""/>
 
 </div>
 
 ---
 
-### ☁️ About Me
+## 👨‍💻 About Me
 
-I am a **Cloud Operations Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at **Parkar Digital, Ahmedabad** — working across AWS, Azure, and GCP.
+```yaml
+name:       Mihir Bhavsar
+role:       Cloud Operations Engineer
+company:    Parkar Digital, Ahmedabad
+since:      April 2025 (after Cloud Infrastructure Internship)
+education:  B.E. in CSE — The Maharaja Sayajirao University of Baroda
+```
 
-- 🏢 Working professionally since **April 2025** in Cloud Infrastructure & Operations, after completing my internship in the same domain.
-- ☁️ Hands-on experience with **Azure Virtual Desktop (AVD)**, cloud automation, infrastructure provisioning, and **cost optimization** (reduced cloud costs by up to 25%).
-- ⚡ Reduced operational effort by **70%+** using PowerShell automation and reusable Terraform modules.
-- 🤖 Passionate about bridging Cloud, DevOps, and AI — built an **AI-Powered HR Policy Chatbot** using RAG architecture.
-- 🎓 CSE Graduate from **The Maharaja Sayajirao University of Baroda**.
-- 📬 Reach me at: mihirbhavsar2001@gmail.com
-
----
-
-### 🏅 Certifications
-
-<table>
-  <tr>
-    <td>☁️ AWS Certified Solutions Architect – Associate (SAA-C03)</td>
-    <td>🔵 Microsoft Azure Fundamentals (AZ-900)</td>
-  </tr>
-  <tr>
-    <td>🤖 Microsoft AI Fundamentals (AI-900)</td>
-    <td>🌐 Google Cloud Digital Leader</td>
-  </tr>
-</table>
+- ☁️ Working across **AWS**, **Microsoft Azure**, and **GCP** with deep expertise in **Azure Virtual Desktop (AVD)** environments, cloud automation, and infrastructure provisioning.
+- ⚡ Reduced operational effort by **70%+** via PowerShell automation; cut cloud costs by up to **25%** through right-sizing and optimization.
+- 🏗️ Built reusable **Terraform modules** and end-to-end automated CI/CD pipelines.
+- 🤖 Passionate about the intersection of **Cloud**, **DevOps**, and **AI** — built a RAG-based AI chatbot for enterprise use.
+- 📬 Reach me: **mihirbhavsar2001@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+## 🏅 Certifications
 
-#### ☁️ Cloud Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=10" />
-</a>
+<div align="center">
 
-#### ⚙️ DevOps & Automation
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins,githubactions,linux,bash,powershell,python&perline=10" />
-</a>
+| Badge | Certification |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | AWS Certified Solutions Architect – Associate |
+| <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> | Microsoft Azure Fundamentals |
+| <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> | Microsoft AI Fundamentals |
+| <img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> | Google Cloud Digital Leader |
 
-#### 📊 Monitoring & Observability
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+### ⚙️ Infrastructure & Automation (IaC)
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### 🔁 CI/CD & GitOps
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Observability
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-#### 💻 Dev & Frontend (Prior Experience)
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,mongodb,mysql,firebase,git,github,vscode&perline=10" />
-</a>
+<details>
+<summary>💻 Prior Frontend Experience (click to expand)</summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+</details>
 
 ---
 
-### 🚀 Notable Projects
+## 🚀 Featured Projects
 
-| Project | Tech Stack |
-|---|---|
-| 🤖 **AI-Powered HR Policy Chatbot** (RAG-based) | Python, Flask, Llama, Vector DB |
-| 🌐 **Highly Available WordPress on AWS** | EC2, ALB, ASG, RDS, CloudFront, Terraform |
-| 🔄 **Automated Deployment Solution** | Terraform, Ansible, GitHub Actions |
+<div align="center">
+
+| 🤖 AI-Powered HR Policy Chatbot | 🌐 HA WordPress on AWS | 🔄 Automated Deployment Solution |
+|:---:|:---:|:---:|
+| RAG-based chatbot for enterprise HR queries | Production-grade WordPress infra on AWS | Full IaC + CI/CD pipeline end-to-end |
+| `Python` `Flask` `Llama` `Vector DB` | `EC2` `ALB` `ASG` `RDS` `CloudFront` `Terraform` | `Terraform` `Ansible` `GitHub Actions` |
+
+</div>
 
 ---
 
-### 📊 My Stats
+## 📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MihirBhavsar3102&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MihirBhavsar3102&theme=transparent&hide_border=true&ring=2c5364&fire=ff6b35&currStreakLabel=2c5364)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirBhavsar3102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirBhavsar3102&layout=compact&theme=transparent&hide_border=true&title_color=2c5364&text_color=555555)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
